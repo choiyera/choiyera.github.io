@@ -117,7 +117,7 @@ content:
 # Footer
 footer_show_references: true
 # references_title: Nice to meet you (Override references text)
-
+ 
 # Build settings
 remote_theme: sproogen/resume-theme
 
