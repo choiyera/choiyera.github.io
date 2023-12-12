@@ -24,7 +24,7 @@ about_content: | # this will include new lines to allow paragraphs
   **More sincere than anyone else**
   
 
-  간단 자기 소개
+  안녕하세요 최예라 포트폴리오입니다!
   
   
 content:
@@ -52,7 +52,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: (디지털컨버전스) 디지털데이터 융합 자바기반 풀스택 개발자 양성 과정A
+        title: 전자정부 표준 프레임워크 응용SW개발자양성
         link: http://naver.me/5Af2I3DC
         # link_text: 수료증
         quote: >
