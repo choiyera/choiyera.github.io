@@ -44,8 +44,6 @@ content:
     content:
       - layout: top-middle
         title: 전자정부 표준 프레임워크 응용SW개발자양성
-        link: http://naver.me/5Af2I3DC
-        # link_text: 수료증
         quote: >
           더 많은 것을 배워보고싶고, 여러 경험과 다른 사람과의 프로젝트를 함께 해보고 싶어 국비과정을 수료하게되었습니다.
         description: | # this will include new lines to allow paragraphs
@@ -62,7 +60,7 @@ content:
         additional_links:
           - title: 프로젝트 및 시연 ppt
             icon: fab fa-github
-            url: http://naver.me/xJaQL7ro 
+            url: http://naver.me/GEI6Q5EM 
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
