@@ -102,7 +102,6 @@ content:
       - layout: left
         title: 구현가능한 기능
         quote: >
-         구현할 수 있는 기능과 프로젝트를 진행하며 구현했던 기능들 나열
         description: | # this will include new lines to allow paragraphs
          - 회원관련(로그인, 회원가입, 삭제, 변경 등) CRUD
          - Session 을 이용한 로그인 처리 및 정보 샤용(아이디 기억하기, 세션을 활용한 로그인 정보 넘겨서 다른 부분에서 처리)
