@@ -16,16 +16,6 @@ darkmode: false
 
 # Social links
 github_username: choiyera
-
-# About Section
-# about_title: About Me
-about_profile_image: images/ParkYounSoo.jpg
-about_content: | # this will include new lines to allow paragraphs
-  **More sincere than anyone else**
-  
-
-  안녕하세요 최예라 포트폴리오입니다!
-  
   
 content:
   - title: Myongji College # Title for the section
