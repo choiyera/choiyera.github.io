@@ -24,8 +24,6 @@ content:
     content:
       - layout: top-middle
         title: Myongji College
-        link: http://naver.me/5vYwJD7N
-        # link_text: 졸업증명서
         quote: >
           Myongji College 소프트웨어콘텐츠학과 졸업
         description: | # this will include new lines to allow paragraphs
